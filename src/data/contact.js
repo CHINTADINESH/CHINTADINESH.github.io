@@ -10,7 +10,7 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 const data = [
   {
-    link: ' https://www.linkedin.com/in/dinesh-chinta-238924108/',
+    link: 'https://www.linkedin.com/in/dinesh-chinta-238924108/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },

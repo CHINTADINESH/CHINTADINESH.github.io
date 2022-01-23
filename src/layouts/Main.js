@@ -11,7 +11,7 @@ const Main = (props) => (
   <>
     {/* <Analytics /> */}
     <ScrollToTop />
-    <Helmet titleTemplate="%s | Tharun" defaultTitle="Tharun Reddy">
+    <Helmet titleTemplate="%s | Dinesh" defaultTitle="Dinesh Reddy">
       {props.title && <title>{props.title}</title>}
       <meta name="description" content={props.description} />
     </Helmet>
@@ -39,7 +39,7 @@ Main.defaultProps = {
   children: null,
   fullPage: false,
   title: null,
-  description: "Tharun's personal website.",
+  description: "Dinesh's personal website.",
 };
 
 export default Main;
