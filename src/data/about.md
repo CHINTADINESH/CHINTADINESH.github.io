@@ -5,8 +5,8 @@ I am a graduate student at University of Texas at Austin. My current interests p
 
 <!--My interests include Machine learning, Computer vision, Deep learning, Algorithms, Data pipelines and Infrastructure.--> 
 # Past
-
-- I did my bachelors from IIT Hyderabad in Electrical Engineering a double major in Computer sciences. I am a member of Hockey NSO team. 
+- I worked as a Design Engineer at Xilinx, Hyderabad in CAD team under Suresh Raman.
+- I did my bachelors from IIT Hyderabad in Electrical Engineering a double major in Computer sciences. I was a member of Hockey NSO team. 
 - Did my Internship at CADSL lab, IIT Bombay.
 
 <!-- My team achieved 2nd place at Aerospace automation challenge conducted

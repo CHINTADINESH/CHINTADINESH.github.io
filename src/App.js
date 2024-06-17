@@ -2,6 +2,7 @@ import React, { Suspense, lazy } from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Main from './layouts/Main'; // fallback for lazy pages
 import './static/css/main.scss'; // All of our styles
+// import pdf from './data/Sample.pdf';
 
 const { PUBLIC_URL } = process.env;
 
@@ -13,6 +14,8 @@ const Contact = lazy(() => import('./pages/Contact'));
 const Index = lazy(() => import('./pages/Index'));
 const NotFound = lazy(() => import('./pages/NotFound'));
 const Resume = lazy(() => import('./pages/Resume'));
+// const Resume = lazy(() => import('./data/Sample.pdf'));
+// const Resume = lazy(() => import('./data/Sample.pdf'));
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
